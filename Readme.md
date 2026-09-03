@@ -489,9 +489,9 @@ B.Tech CSE --- Data Science
 
 📧 **Email:** adityasinghdmr@gmail.com
 
-🔗 **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/aditya-singh-068552267/)
+🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/aditya-singh-068552267/)
 
-💻 **GitHub:** [Add your GitHub profile URL here](https://github.com/levyyy1)
+💻 **GitHub:** [GitHub](https://github.com/levyyy1)
 
 ------------------------------------------------------------------------
 
