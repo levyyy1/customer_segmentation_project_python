@@ -370,46 +370,7 @@ The application then displays the predicted customer segment.
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run the Project
 
-### 1. Clone the repository
-
-``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd CUSTOMER_SEGMENTATION_PROJECT
-```
-
-### 2. Install dependencies
-
-``` bash
-pip install pandas numpy matplotlib seaborn scikit-learn joblib streamlit jupyter
-```
-
-### 3. Run the Streamlit application
-
-If the `streamlit` command is available:
-
-``` bash
-streamlit run segmentation.py
-```
-
-If your terminal shows **`streamlit: command not found`**, run:
-
-``` bash
-python -m streamlit run segmentation.py
-```
-
-### 4. Open the application
-
-Streamlit will provide a local URL, normally similar to:
-
-``` text
-http://localhost:8501
-```
-
-Open that address in your browser.
-
-------------------------------------------------------------------------
 
 ## 🧠 Project Workflow
 
@@ -465,21 +426,6 @@ This project demonstrates practical experience with:
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Improvements
-
-Possible improvements include:
-
--   Add cluster-wise interactive visualizations to Streamlit
--   Display customer segment characteristics dynamically
--   Add downloadable prediction reports
--   Add more clustering evaluation metrics such as Silhouette Score
--   Compare K-Means with other clustering algorithms
--   Add interactive PCA/cluster plots
--   Deploy the Streamlit application online
--   Add a requirements.txt file
--   Add automated data validation
-
-------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
